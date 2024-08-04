@@ -1,0 +1,10 @@
+# General
+env/
+
+
+# Notebooks
+notebooks/.ipynb_checkpoints/
+
+
+# GitHub Pushiing
+push.sh
